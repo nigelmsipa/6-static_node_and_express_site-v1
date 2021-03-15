@@ -49,6 +49,16 @@
             "github_link": "https://github.com/nigelmsipa/5-public_api_request-v1",
             "images_urls": ["/static/images/p5.png", "/static/images/p5-.png"]
 
+        },
+        {
+            "id": 5,
+            "name": "Infinite scroll",
+            "description": "An photo app  that communicates with a unsplash API",
+            "technologies":  ["HTML","JS","CSS"],
+            "live_link": "https://stoic-dijkstra-56ef89.netlify.app/",
+            "github_link": "https://github.com/nigelmsipa/Infinitescroll",
+            "images_urls": ["/static/images/p6.png", "/static/images/p6-.png"]
+
         }
     ]
 }

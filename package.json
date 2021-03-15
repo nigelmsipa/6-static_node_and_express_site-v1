@@ -1,13 +1,13 @@
 {
   "name": "tech-degree-project-6",
   "version": "1.0.0",
-  "description": "Static Node.js and Express Site",
+  "description": "Portforlio",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "Kaya",
+  "author": "Nigel Msipa",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2",
