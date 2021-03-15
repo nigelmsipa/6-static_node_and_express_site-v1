@@ -362,3 +362,9 @@ nav a span {
     max-width: 1200px;
   }
 }
+.centered-header {
+  padding-top: 40px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+}

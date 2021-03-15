@@ -1,11 +1,54 @@
 {
     "projects": [
-        {"id": 0, "project_name": "A Random Quote Generator","description": "A program that displays a randomly selected quote each time the user clicks a button.","technologies": ["HTML","JS","CSS"],"live_link": "https://nigelmsipa.github.io/Random-Quote-Genarator-P1/","github_link": "https://github.com/nigelmsipa/Random-Quote-Genarator-P1","image_urls": ["/images/p1.png","/images/p1-.png"]},
-        {"id": 1, "project_name": "Data Pagination and Filtering","description": "A program that uses a common web development technique known as “pagination” to display managable amount of data on the page.","technologies": ["HTML","JS","CSS"],"live_link": "https://nigelmsipa.github.io/data-pagination-and-filtering-v1/","github_link": "https://github.com/nigelmsipa/data-pagination-and-filtering-v1","image_urls": ["/images/p2.png","/images/p2-.png"]},
-        {"id": 2, "project_name": "Interactive Form","description": " A JavaScript powered interactive registration form for a fictional Full Stack conference","technologies": ["HTML","JS","CSS"],"live_link": "New","https://nigelmsipa.github.io/-interactive-form-v3/": "https://github.com/nigelmsipa/-interactive-form-v3","image_urls": ["/images/p3.png","/images/p3-.png"]},
-        {"id": 3, "project_name": "OOP Game Show App","description": "A browser-based, word guessing game.","technologies": ["HTML","JS","CSS"],"live_link": "https://nigelmsipa.github.io/4-oop_game-v2/","github_link": "https://github.com/nigelmsipa/4-oop_game-v2","image_urls": ["/images/p4.png","/images/p4-.png"]},
-        {"id": 4, "project_name": "Public API Requests","description": "An employee directory that communicates with a third-party API","technologies": ["HTML","JS","CSS"],"live_link": "https://nigelmsipa.github.io/5-public_api_request-v1/","github_link": "https://github.com/nigelmsipa/5-public_api_request-v1","image_urls": ["/images/p5.png","/images/p5-.png"]}
-       
-      ]
- 
+        {
+            "id": 0,
+            "name": "A Random Quote Generator",
+            "description": "A program that displays a randomly selected quote each time the user clicks a buttonA program that displays a randomly selected quote each time the user clicks a button.",
+            "technologies":  ["HTML","JS","CSS"],
+            "live_link": "https://nigelmsipa.github.io/Random-Quote-Genarator-P1/",
+            "github_link": "https://github.com/nigelmsipa/Random-Quote-Genarator-P1",
+            "images_urls": ["/static/images/p1.png", "/static/images/p1-.png"]
+
+        },
+        {
+            "id": 1,
+            "name": "Data Pagination and Filtering",
+            "description": "A program that uses a common web development technique known as “pagination” to display managable amount of data on the page.",
+            "technologies":  ["HTML","JS","CSS"],
+            "live_link": "https://nigelmsipa.github.io/data-pagination-and-filtering-v1/",
+            "github_link": "https://github.com/nigelmsipa/data-pagination-and-filtering-v1",
+            "images_urls": ["/static/images/p2.png", "/static/images/p2-.png"]
+
+        },
+        {
+            "id": 2,
+            "name": "Interactive Form",
+            "description": "A JavaScript powered interactive registration form for a fictional Full Stack conference.",
+            "technologies":  ["HTML","JS","CSS"],
+            "live_link": "https://nigelmsipa.github.io/-interactive-form-v3/",
+            "github_link": "https://github.com/nigelmsipa/-interactive-form-v3",
+            "images_urls": ["/static/images/p3.png", "/static/images/p3-.png"]
+
+        },
+        {
+            "id": 3,
+            "name": "OOP Game Show App",
+            "description": "A browser-based, word guessing game.",
+            "technologies":  ["HTML","JS","CSS"],
+            "live_link": "https://nigelmsipa.github.io/5-public_api_request-v1/",
+            "github_link": "https://github.com/nigelmsipa/5-public_api_request-v1",
+            "images_urls": ["/static/images/p4.png", "/static/images/p4-.png"]
+
+        },
+        {
+            "id": 4,
+            "name": "Public API Requests",
+            "description": "An employee directory that communicates with a third-party API",
+            "technologies":  ["HTML","JS","CSS"],
+            "live_link": "https://nigelmsipa.github.io/5-public_api_request-v1/",
+            "github_link": "https://github.com/nigelmsipa/5-public_api_request-v1",
+            "images_urls": ["/static/images/p5.png", "/static/images/p5-.png"]
+
+        }
+    ]
 }
