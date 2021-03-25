@@ -3,7 +3,7 @@
 const express = require('express');
 const data = require('./data.json');
 const app = express();
-const port = 3000;
+
 //set pug as the template engine
 app.set('view engine', 'pug');
 
@@ -50,7 +50,7 @@ app.use((error, req, res, next) => {
 });
 
 //listening on the localhost 3000 port
-app.listen(process.env.PORT || port, () => {
-  console.log('This app is running on localhost:3000');
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Our app is running on port ${PORT}`);
 });
-``;
